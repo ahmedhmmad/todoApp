@@ -2,26 +2,26 @@
 
 ## :dizzy: **TodoitApp** :dizzy:
 
-# :small_orange_diamond: Project description
+## :small_orange_diamond: Project description
 
 _To Do List app_ is a simple and useful tool that can help us manage our daily tasks and plan our daily schedule.
 
 _A to-do list_ is great for keeping track of things that you need to get done. It allows you to see what’s on your plate and make sure that you don’t forget anything.
 
-# :small_orange_diamond: User stories
+## :small_orange_diamond: User stories
 
 - As a user, I should be able to add my to-do to the list and save it in local storage
 - As a user, I should be able to edit my to-dos
 - As a user, I should be able to remove any to-do from my list (remove it from local storage)
 - As a user, I can still have my list even if I close the browser window
 
-# :small_orange_diamond: Live link
+## :small_orange_diamond: Live link
 
 ### :eye_speech_bubble: [Click Here to Do your List](https://gsg-cf05.github.io/TodoApp-ahammad/)
 
-# How do I get the project on my local machine?
+## How do I get the project on my local machine?
 
-## You have many options to open the app on Local Machine, ##I'll suggest you two ways:
+### You have many options to open the app on Local Machine, ##I'll suggest you two ways:
 
 :one: The First One Steps:
 
@@ -35,6 +35,6 @@ _A to-do list_ is great for keeping track of things that you need to get done. I
 2.  Extract the Zip file.
 3.  Using a web browser open the index.html file.
 
-# :small_orange_diamond: Done by:
+## :small_orange_diamond: Done by:
 
-## **[Ahmed Hammad](https://github.com/ahmedhmmad)**
+### **[Ahmed Hammad](https://github.com/ahmedhmmad)**
