@@ -1,5 +1,3 @@
-# todoApp
-
 # Project name:
 
 ## **TodoitApp**
@@ -12,18 +10,18 @@ _A to-do list_ is great for keeping track of things that you need to get done. I
 
 # User stories
 
--As a user, I should be able to add my to-do to the list and save it in local storage
--As a user, I should be able to edit my to-dos
--As a user, I should be able to remove any to-do from my list (remove it from local storage)
--As a user, I can still have my list even if I close the browser window
+*As a user, I should be able to add my to-do to the list and save it in local storage
+*As a user, I should be able to edit my to-dos
+*As a user, I should be able to remove any to-do from my list (remove it from local storage)
+*As a user, I can still have my list even if I close the browser window
 
-# Live link [github pages]
+# Live link
 
 ### [Click Here to Do your List](https://gsg-cf05.github.io/TodoApp-ahammad/)
 
 # How do I get the project on my local machine?
 
-## You have many options to open the app on Local Machine, I'll suggest you two ways:
+## You have many options to open the app on Local Machine, ##I'll suggest you two ways:
 
 1. The First One Steps:
    1. Clone The project.
