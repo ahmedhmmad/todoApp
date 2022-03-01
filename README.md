@@ -28,10 +28,12 @@ _A to-do list_ is great for keeping track of things that you need to get done. I
 1.  Clone The project.
 2.  Open Vs Editor.
 3.  Run the app using Live Server
-    :two: The Second Method:
-4.  Download the Code.
-5.  Extract the Zip file.
-6.  Using a web browser open the index.html file.
+
+:two: The Second Method:
+
+1.  Download the Code.
+2.  Extract the Zip file.
+3.  Using a web browser open the index.html file.
 
 # :small_orange_diamond: Done by:
 
