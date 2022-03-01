@@ -1,6 +1,6 @@
 # Project name:
 
-## **TodoitApp**
+## :dizzy: **TodoitApp** :dizzy:
 
 # Project description
 
@@ -17,7 +17,7 @@ _A to-do list_ is great for keeping track of things that you need to get done. I
 
 # Live link
 
-### [Click Here to Do your List](https://gsg-cf05.github.io/TodoApp-ahammad/)
+### :eye_speech_bubble: [Click Here to Do your List](https://gsg-cf05.github.io/TodoApp-ahammad/)
 
 # How do I get the project on my local machine?
 
